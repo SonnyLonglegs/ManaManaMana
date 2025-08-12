@@ -11,6 +11,7 @@ Versions will be supported whenever I get around to it, which usually means when
 
 ## Future Planned Name Changes
   Ars Nouveau: Source instead of Mana, and Source Capacity instead of Max Mana for an extra tiny bit of flair.
+  
   Mahou Tsukai: Small change, the staff and scroll of Explosive Mana Condensation will be getting a new name.
 
 ## Mod I've chosen to keep "Mana"
