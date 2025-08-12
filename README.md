@@ -3,8 +3,8 @@ There's too many types of Mana, and in JEI or NEI, searching for one leaves you 
 
 
 Versions will be supported whenever I get around to it, which usually means whenever I'm playing that version.
-## Current Versions:
-  1.20.1
+## Current Versions and Mods Supported:
+  1.20.1 - Botania, AIOT Botania, Applied Botanistics
 
 ## Current Name Changes by Mod
   Botania: Vitality, Vita ___, Vitasteel, instead of Mana, Mana items, and Manasteel
