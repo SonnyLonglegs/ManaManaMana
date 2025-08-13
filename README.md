@@ -16,6 +16,7 @@ Versions will be supported whenever I get around to it, which usually means when
 
 ## Mod I've chosen to keep "Mana"
   Iron's Spells and Spellbooks. Mostly because I feel like it.
+  Also Mahou Tsukai's use of mana, but not by choice, it's because I can't make it work. If anyone has ideas, please let me know.
 
 ## Note to any mod authors who have made the things I'm tweaking
   I simply copied the lang file from inside the mod, then edited that and put it into my resource pack. I hope you don't mind, If this is an issue with any authors, please let me know if there's another way I can or should do that.
